@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>NPTEL Self-Test: Weeks 1 to 12</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <h1>NPTEL Self-Test</h1>
+      <div class="live" aria-live="polite">
+        <span id="liveScore">0</span> correct
+        <span class="sep">/</span>
+        <span id="liveAnswered">0</span> submitted
+        <span class="sep">of</span> 120
+      </div>
+      <div class="actions">
+        <button id="resultBtn" class="btn primary">Show result</button>
+        <button id="resetAllBtn" class="btn">Reset all</button>
+      </div>
+    </div>
+    <nav id="weekTabs" class="tabs" aria-label="Choose week"></nav>
+  </header>
+
+  <main>
+    <section id="resultPanel" class="result hidden" aria-live="polite"></section>
+    <div id="quiz"></div>
+  </main>
+
+  <script src="js/questions.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
