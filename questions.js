@@ -1,4 +1,5 @@
 // All 12 weeks of NPTEL assignment questions.
+// SELF_TEST_EXAM
 // answer = index (0-3) of the correct option.
 const QUIZ_DATA = [
  {
