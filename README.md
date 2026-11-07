@@ -1,4 +1,4 @@
-# NPTEL Self-Test (Weeks 1 to 12)
+# NPTEL Self_Test_Exam (Weeks 1 to 12)
 
 Plain HTML + CSS + JavaScript. No installation or internet needed.
 
