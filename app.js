@@ -1,4 +1,4 @@
-/* NPTEL Self-Test: logic
+/* NPTEL Self-Test_Exam: logic
    - Each question: pick an option, press Submit (checks answer), or Reset (clears it).
    - 1 mark per correct answer, 120 marks total, pass mark = 40.
 */
